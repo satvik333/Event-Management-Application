@@ -1,0 +1,21 @@
+{
+    "gameId": 2,
+    "matches": [
+        {
+            "date": "14-01-2023 14:02:50",
+            "teams": [
+                "Team0",
+                "Team1"
+            ],
+            "duration": 30
+        },
+        {
+            "date": "17-01-2023 15:11:35",
+            "teams": [
+                "Team2",
+                "Team3"
+            ],
+            "duration": 30
+        }
+    ]
+}
