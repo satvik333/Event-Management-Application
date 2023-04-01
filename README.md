@@ -1,0 +1,1 @@
+The Event Management Application is a console-based application designed to help users create teams and fixtures using JSON data. The application is designed to simplify the process of managing events and helps users to create teams and fixtures quickly and easily. The application also generates JSON files of the results for the user's convenience.
